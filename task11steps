@@ -1,0 +1,10 @@
+To start a free VM in Azure, follow these steps:
+1.Sign in to Azure Portal: 
+   Sign in to the Azure portal using your account credentials.
+2.Create Virtual Machine:
+        *Enter "Virtual machines" in the search bar.
+        *Under Services, select Virtual machines.
+        *Click on Create and then Azure virtual machine.
+        *Provide a name for your Virtual machine  and choose an Image.
+        *Configure the necessary settings like Administrator account, Inbound port rules , and review the summary.
+        *Click on Review + create and then Create to deploy the VM
